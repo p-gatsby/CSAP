@@ -1,7 +1,4 @@
 <a name="readme-top"></a>
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-=
 
 <!-- ABOUT THE PROJECT -->
 
@@ -65,13 +62,14 @@ Flask server installation ~ > Clinic-Source-Automation-App > Server
 
 ### Running the app
 
-- Run Electron App
-  ```sh
-  npm start
-  ```
-- Run Flask Server
+- Run Flask Server ~ > Clinic-Source-Automation-App > Server
   ```sh
   flask --app app run
+  ```
+
+- Run Electron App ~ > Clinic-Source-Automation-App > Client
+  ```sh
+  npm start
   ```
 
 <!-- LICENSE -->
@@ -81,9 +79,3 @@ Flask server installation ~ > Clinic-Source-Automation-App > Server
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/petergatsby
-[product-screenshot]: images/screenshot.png
